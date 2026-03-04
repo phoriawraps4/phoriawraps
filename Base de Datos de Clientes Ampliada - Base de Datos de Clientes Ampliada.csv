@@ -1,0 +1,101 @@
+ID,Edad,Género,Ingresos,Locación,Gasto Comida (MXN),Frecuencia (mes),Canal Preferido,Calificación Sabor
+1,23,Masc,$10k-$20k,Norte,1450,4,Uber Eats,9
+2,31,Fem,$20k-$35k,Sur,2100,2,Pick-up,8
+3,19,Fem,< $10k,Centro,850,1,En sucursal,10
+4,45,Masc,> $35k,Reliz,3200,3,Didi Food,7
+5,28,N.B.,$10k-$20k,Norte,1550,5,Uber Eats,9
+6,22,Masc,< $10k,Centro,900,2,En sucursal,8
+7,37,Fem,$20k-$35k,Reliz,2800,4,Pick-up,9
+8,25,Fem,$10k-$20k,Sur,1400,3,Didi Food,10
+9,41,Masc,> $35k,Norte,3100,2,Uber Eats,8
+10,20,Masc,< $10k,Sur,750,1,En sucursal,9
+11,33,Fem,$20k-$35k,Norte,2300,6,Uber Eats,10
+12,27,Masc,$10k-$20k,Centro,1650,3,Pick-up,8
+13,48,Fem,> $35k,Reliz,3800,2,Didi Food,9
+14,21,Fem,< $10k,Sur,1100,4,En sucursal,7
+15,24,Masc,$10k-$20k,Norte,1800,5,Uber Eats,10
+16,30,Masc,$20k-$35k,Centro,2500,3,Pick-up,9
+17,18,Fem,< $10k,Reliz,950,2,En sucursal,8
+18,39,N.B.,$20k-$35k,Sur,2200,4,Didi Food,9
+19,26,Fem,$10k-$20k,Norte,1700,3,Uber Eats,10
+20,43,Masc,> $35k,Centro,3500,1,Pick-up,8
+21,29,Masc,$20k-$35k,Sur,2150,5,Uber Eats,9
+22,22,Fem,< $10k,Reliz,800,2,En sucursal,9
+23,35,Fem,$20k-$35k,Norte,2600,4,Didi Food,10
+24,40,Masc,> $35k,Sur,3300,3,Pick-up,8
+25,24,Masc,$10k-$20k,Centro,1400,6,Uber Eats,10
+26,32,Fem,$20k-$35k,Norte,2450,2,Didi Food,9
+27,46,Masc,> $35k,Reliz,3700,1,En sucursal,8
+28,19,Fem,< $10k,Sur,700,3,Uber Eats,9
+29,23,Masc,$10k-$20k,Centro,1500,4,Pick-up,10
+30,38,Fem,$20k-$35k,Norte,2750,5,Didi Food,9
+31,21,Fem,< $10k,Reliz,1050,2,En sucursal,8
+32,44,Masc,> $35k,Sur,3400,3,Uber Eats,10
+33,27,N.B.,$10k-$20k,Centro,1600,4,Pick-up,9
+34,34,Fem,$20k-$35k,Norte,2250,2,Didi Food,8
+35,25,Masc,$10k-$20k,Sur,1350,1,En sucursal,10
+36,42,Fem,> $35k,Reliz,3600,5,Uber Eats,9
+37,20,Masc,< $10k,Centro,880,3,Didi Food,9
+38,31,Masc,$20k-$35k,Norte,2400,4,Pick-up,8
+39,24,Fem,$10k-$20k,Sur,1750,6,Uber Eats,10
+40,47,Masc,> $35k,Reliz,3900,2,En sucursal,7
+41,22,Fem,< $10k,Centro,1150,3,Didi Food,9
+42,36,Masc,$20k-$35k,Norte,2650,4,Uber Eats,10
+43,28,Fem,$10k-$20k,Sur,1500,2,Pick-up,8
+44,49,Masc,> $35k,Centro,3850,1,En sucursal,9
+45,19,Fem,< $10k,Reliz,920,5,Uber Eats,10
+46,23,Masc,$10k-$20k,Norte,1680,3,Didi Food,9
+47,33,Fem,$20k-$35k,Sur,2350,4,Pick-up,8
+48,26,Masc,$10k-$20k,Centro,1450,2,En sucursal,9
+49,41,Fem,> $35k,Reliz,3150,6,Uber Eats,10
+50,21,N.B.,< $10k,Sur,780,1,Didi Food,8
+51,30,Masc,$20k-$35k,Norte,2550,4,Pick-up,9
+52,24,Fem,$10k-$20k,Centro,1580,3,En sucursal,10
+53,38,Masc,$20k-$35k,Reliz,2850,2,Uber Eats,9
+54,45,Fem,> $35k,Sur,3450,1,Didi Food,8
+55,18,Masc,< $10k,Centro,980,4,En sucursal,9
+56,27,Fem,$10k-$20k,Norte,1820,5,Uber Eats,10
+57,34,Masc,$20k-$35k,Sur,2420,3,Pick-up,8
+58,42,Fem,> $35k,Reliz,3750,2,Didi Food,9
+59,20,Fem,< $10k,Norte,1020,6,En sucursal,10
+60,31,Masc,$20k-$35k,Centro,2680,4,Uber Eats,9
+61,25,Masc,$10k-$20k,Sur,1520,3,Pick-up,8
+62,46,Fem,> $35k,Reliz,3950,1,Didi Food,9
+63,22,Fem,< $10k,Norte,1180,5,En sucursal,10
+64,35,Masc,$20k-$35k,Centro,2720,4,Uber Eats,8
+65,29,N.B.,$10k-$20k,Sur,1650,3,Didi Food,9
+66,40,Fem,> $35k,Reliz,3280,2,Pick-up,10
+67,21,Masc,< $10k,Centro,940,1,En sucursal,8
+68,32,Fem,$20k-$35k,Norte,2380,4,Uber Eats,9
+69,24,Masc,$10k-$20k,Sur,1720,6,Didi Food,10
+70,48,Masc,> $35k,Reliz,3820,3,Pick-up,8
+71,19,Fem,< $10k,Norte,890,2,En sucursal,9
+72,33,Masc,$20k-$35k,Centro,2520,4,Uber Eats,10
+73,26,Fem,$10k-$20k,Sur,1480,5,Didi Food,9
+74,43,Fem,> $35k,Reliz,3350,2,Pick-up,8
+75,23,Masc,< $10k,Norte,1120,3,En sucursal,9
+76,37,Masc,$20k-$35k,Centro,2780,4,Uber Eats,10
+77,28,Fem,$10k-$20k,Sur,1620,1,Didi Food,9
+78,44,Fem,> $35k,Reliz,3650,3,Pick-up,8
+79,20,N.B.,< $10k,Centro,830,2,En sucursal,9
+80,31,Masc,$20k-$35k,Norte,2480,5,Uber Eats,10
+81,25,Fem,$10k-$20k,Sur,1570,4,Didi Food,9
+82,41,Masc,> $35k,Reliz,3420,3,Pick-up,8
+83,22,Masc,< $10k,Centro,960,6,En sucursal,10
+84,36,Fem,$20k-$35k,Norte,2620,2,Uber Eats,9
+85,29,Masc,$10k-$20k,Sur,1690,4,Didi Food,8
+86,47,Fem,> $35k,Reliz,3880,1,Pick-up,9
+87,21,Fem,< $10k,Norte,1080,3,En sucursal,10
+88,34,Masc,$20k-$35k,Centro,2750,5,Uber Eats,9
+89,24,Fem,$10k-$20k,Sur,1540,4,Didi Food,8
+90,49,Masc,> $35k,Reliz,3980,2,Pick-up,9
+91,23,Masc,< $10k,Centro,910,1,En sucursal,10
+92,32,Fem,$20k-$35k,Norte,2410,4,Uber Eats,9
+93,27,Fem,$10k-$20k,Sur,1630,3,Didi Food,8
+94,45,Masc,> $35k,Reliz,3550,5,Pick-up,9
+95,19,Masc,< $10k,Centro,840,2,En sucursal,10
+96,30,Fem,$20k-$35k,Norte,2530,4,Uber Eats,9
+97,26,Masc,$10k-$20k,Sur,1590,3,Didi Food,8
+98,42,Fem,> $35k,Reliz,3680,1,Pick-up,9
+99,22,Masc,< $10k,Centro,970,4,En sucursal,10
+100,25,Fem,$10k-$20k,Norte,1710,5,Uber Eats,9
